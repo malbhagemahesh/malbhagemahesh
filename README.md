@@ -15,7 +15,7 @@ I am a Full Stack Python Developer with experience building scalable web applica
 - 🌱 Currently learning Generative AI, FastAPI, Docker & AWS
 - 🤖 Interested in AI, Machine Learning and Data Science
 - 💻 Passionate about Full Stack Development
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: mr.malbhage@gmail.com
 
 
 ## 🛠️ Tech Stack
