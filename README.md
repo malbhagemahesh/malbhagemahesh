@@ -4,98 +4,110 @@
 
 # Hi 👋, I'm Mahesh Malbhage
 
-### Full Stack Python Developer | AI Engineer
+### Full Stack Python Developer | AI & Machine Learning Enthusiast
 
-I'm a passionate Full Stack Developer and AI Engineer focused on building scalable web applications and intelligent AI solutions.
+I am a Full Stack Python Developer with experience building scalable web applications using Django, Flask, React, FastAPI, MySQL, and MongoDB. I enjoy solving real-world problems through software development and exploring AI, Machine Learning, and Data Science to create intelligent solutions.
 
-- 🔭 Currently working on Full Stack Python Applications
-- 🤖 Exploring Generative AI & LLM Applications
-- 🌱 Learning Cloud Deployment & System Design
-- 💼 Looking for Full Stack Python / AI Engineer opportunities
-- 📍 India
 
----
+## 🚀 About Me
 
-## 🚀 Tech Stack
+- 💼 Software Developer Intern at WhiskerBond
+- 🌱 Currently learning Generative AI, FastAPI, Docker & AWS
+- 🤖 Interested in AI, Machine Learning and Data Science
+- 💻 Passionate about Full Stack Development
+- 📫 Reach me at: your-email@example.com
+
+
+## 🛠️ Tech Stack
 
 ### Languages
-
-Python • JavaScript • SQL • HTML • CSS
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
 ### Frontend
-
-React.js • Tailwind CSS • Bootstrap
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Vite
 
 ### Backend
-
-FastAPI • Django • Flask • Node.js
+- Django
+- Flask
+- FastAPI
 
 ### Database
+- MySQL
+- MongoDB
 
-MySQL • PostgreSQL • MongoDB
-
-### AI / ML
-
-Machine Learning
-
-Deep Learning
-
-OpenCV
-
-Scikit-learn
-
-TensorFlow
-
-Pandas
-
-NumPy
+### AI & Data Science
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- OpenCV
 
 ### Tools
+- Git
+- GitHub
+- Linux
+- AWS
+- Docker
 
-Git
-
-GitHub
-
-Docker
-
-Linux
-
-VS Code
-
-AWS (Learning)
-
----
 
 ## 📌 Featured Projects
 
-### 🤖 Skin Cancer Detection
-CNN-based Deep Learning model for skin cancer detection.
+### 🏥 AI Skin Cancer Detection
+A deep learning application for detecting skin cancer using TensorFlow and OpenCV.
+
+**Tech Stack:** Python, TensorFlow, OpenCV, Flask
+
+---
 
 ### 💳 Credit Card Fraud Detection
-Machine Learning model for fraud prediction.
+Machine learning model to identify fraudulent transactions.
+
+**Tech Stack:** Python, Scikit-learn, Pandas
+
+---
+
+### 🐾 WhiskerBond
+A full-stack pet service platform with authentication, booking, and responsive UI.
+
+**Tech Stack:** React, Django, MySQL
+
+---
 
 ### 📈 Bitcoin Price Prediction
-LSTM Deep Learning model for time series forecasting.
+Machine learning model to predict Bitcoin prices using historical market data.
 
-### 🏥 Service Booking System
-Full Stack web application for service management.
+**Tech Stack:** Python, Pandas, Scikit-learn
 
-### 🎯 Lead Scoring Tool
-Machine Learning project for customer prioritization.
 
----
 
-## 📫 Connect With Me
 
-Portfolio:
-(Your Portfolio Link)
+## 💼 Experience
 
-LinkedIn:
-(Your LinkedIn)
+### Software Developer Intern
+**WhiskerBond**
 
-Email:
-(Your Email)
+- Developed responsive web interfaces using React.
+- Worked on backend features using Django.
+- Integrated APIs and optimized database queries.
+- Collaborated with team members using Git.
 
----
 
-⭐ Thanks for visiting my profile!
+## 📜 Certifications
+
+- AWS Cloud Foundations
+- IBM Data Science
+- Google Analytics Certification
+
+
+## 🌐 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/maheshmalbhage
+- GitHub: https://github.com/malbhagemahesh
+- Email: mr.malbhage@gmail.com
