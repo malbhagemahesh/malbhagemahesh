@@ -6,105 +6,107 @@
 
 ### Full Stack Python Developer | AI & Machine Learning Enthusiast
 
-I am a Full Stack Python Developer with experience building scalable web applications using Django, Flask, React, FastAPI, MySQL, and MongoDB. I enjoy solving real-world problems through software development and exploring AI, Machine Learning, and Data Science to create intelligent solutions.
+I'm a Full Stack Python Developer passionate about building scalable web applications and intelligent software solutions. I specialize in Python, Django, FastAPI, React, MySQL, and MongoDB, and I'm continuously expanding my skills in Machine Learning, Generative AI, Docker, and AWS to develop modern, AI-powered applications.
 
 
 ## 🚀 About Me
 
-- 💼 Software Developer Intern at WhiskerBond
-- 🌱 Currently learning Generative AI, FastAPI, Docker & AWS
-- 🤖 Interested in AI, Machine Learning and Data Science
-- 💻 Passionate about Full Stack Development
+- 💼 Full-Time Software Developer at WhiskerBond
+- 🚀 Building scalable Full Stack applications with Python, Django, FastAPI & React
+- 🤖 Passionate about AI, Machine Learning & Generative AI
+- ☁️ Currently learning Docker, AWS & cloud-native development
 - 📫 Reach me at: mr.malbhage@gmail.com
 
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 - Python
 - JavaScript
 - SQL
 - HTML5
 - CSS3
 
-### Frontend
+### 🎨 Frontend
 - React.js
 - Tailwind CSS
 - Bootstrap
 - Vite
 
-### Backend
+### ⚙️ Backend
 - Django
 - Flask
 - FastAPI
 
-### Database
+### 🗄️ Database
 - MySQL
 - MongoDB
 
-### AI & Data Science
+### 🤖 AI & Data Science
 - NumPy
 - Pandas
 - Scikit-learn
 - TensorFlow
 - OpenCV
 
-### Tools
+### 🛠️ Tools & Platforms
 - Git
 - GitHub
 - Linux
-- AWS
 - Docker
+- AWS
+- Power BI
 
 
 ## 📌 Featured Projects
 
-### 🏥 AI Skin Cancer Detection
-A deep learning application for detecting skin cancer using TensorFlow and OpenCV.
+### 🛒 E-Commerce Platform
+A full-stack e-commerce web application with secure user authentication, product management, shopping cart, order processing, and an admin dashboard.
 
-**Tech Stack:** Python, TensorFlow, OpenCV, Flask
-
----
-
-### 💳 Credit Card Fraud Detection
-Machine learning model to identify fraudulent transactions.
-
-**Tech Stack:** Python, Scikit-learn, Pandas
+**Tech Stack:** Django, React, MySQL, REST API
 
 ---
 
-### 🐾 WhiskerBond
-A full-stack pet service platform with authentication, booking, and responsive UI.
+### 💼 WorkPilot
+A full-stack workforce management platform for managing employees, tasks, attendance, and business workflows through a modern web interface.
 
-**Tech Stack:** React, Django, MySQL
+**Tech Stack:** Django, React, MySQL, REST API
 
 ---
 
-### 📈 Bitcoin Price Prediction
-Machine learning model to predict Bitcoin prices using historical market data.
+### ✈️ Travel Website
+A responsive frontend travel website featuring destination listings, modern UI components, interactive sections, and a mobile-friendly design.
 
-**Tech Stack:** Python, Pandas, Scikit-learn
+**Tech Stack:** React, Tailwind CSS, JavaScript
 
+---
+
+### 🏥 Medical Website
+A responsive healthcare website with an intuitive user interface, service pages, appointment sections, and a clean, accessible design.
+
+**Tech Stack:** React, Tailwind CSS, JavaScript
 
 
 
 ## 💼 Experience
 
-### Software Developer Intern
+### Software Developer
 **WhiskerBond**
 
-- Developed responsive web interfaces using React.
-- Worked on backend features using Django.
-- Integrated APIs and optimized database queries.
-- Collaborated with team members using Git.
+- Developed production-ready full-stack web applications using React, Django, FastAPI, MySQL, and REST APIs.
+- Designed and implemented responsive user interfaces, dashboards, booking systems, shopping cart functionality, authentication, and dynamic filtering features.
+- Integrated frontend and backend modules, optimized API communication, resolved merge conflicts, and improved application performance.
+- Implemented secure authentication, OTP verification, password management, and email notification workflows.
+- Worked on bug fixing, testing, code reviews, deployment support, and technical documentation throughout the software development lifecycle.
+- Collaborated with designers, backend developers, and QA engineers in an Agile environment using Git for version control.
 
 
 ## 📜 Certifications
 
-- AWS Cloud Foundations
-- IBM Data Science
-- Google Analytics Certification
-
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
+- Google Project Management Professional Certificate
+  
 
 ## 🌐 Connect With Me
 
